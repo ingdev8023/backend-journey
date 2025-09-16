@@ -1,1 +1,2 @@
-This repor is for my journey goign deeper to be backend developer
+This repo is for my journey committed to be backend developer in the next comming months
+
